@@ -35,7 +35,7 @@
 		<modelmapper.version>2.3.5</modelmapper.version>
 
 		<!-- commons依赖 -->
-		<commons-io.version>2.6</commons-io.version>
+		<commons-io.version>2.7</commons-io.version>
 
 		<swagger2.version>2.9.2</swagger2.version>
 	</properties>
